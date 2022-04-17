@@ -1,0 +1,12 @@
+ID Comanda: 21
+
+Client : Ciobanica Tadeus
+Address: str.Horea nr.4
+Email: ciobanica.tadeus28@gmail.com	
+Age: 21
+
+Produsul: Lapte
+Pret: 21.2 lei
+Cantitate: 2
+
+Pret total : 42.2 lei

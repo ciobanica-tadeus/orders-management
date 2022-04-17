@@ -1,0 +1,11 @@
+ID Comanda: 9
+
+Client: Diana
+Address: STR.BUFTEA
+Email: diana20@yahoo.com
+Age: 19
+
+Produsul: Stalinskaya
+Pret: 70,00 lei
+Cantitate: 19
+Pret total: 1330,00 lei

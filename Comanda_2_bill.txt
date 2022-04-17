@@ -1,0 +1,11 @@
+ID Comanda: 2
+
+Client: Botar Mihai
+Address: str.Republicii 102
+Email: mihai.botar@gmail.com
+Age: 20
+
+Produsul: Oua
+Pret: 10,20 lei
+Cantitate: 21
+Pret total: 214,20 lei
