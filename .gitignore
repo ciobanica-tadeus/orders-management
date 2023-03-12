@@ -1,4 +1,5 @@
 /target/
+/javaDocs/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
@@ -15,3 +16,8 @@
 *.iws
 *.iml
 *.ipr
+*.doc
+*.docx
+*.txt
+*.png
+*.sql
